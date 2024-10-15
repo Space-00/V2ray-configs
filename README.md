@@ -35,4 +35,4 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 
 **📚Sources that configs are captured from**: `10`
 
-**🕖The day I created this repository**: `10/15/2024`
+**🕖The day I created this repository**: `Octobor 15 of 2024`
