@@ -7,7 +7,7 @@ This repo collects a random amount of v2ray configs by itself every 10 to 20 min
 💙 Just put this subscription link in a v2ray client and enjoy 💙
 
 ```javascript
-https://raw.githubusercontent.com/Space-00/V2ray_collector/main/config.txt
+https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 ```
 
 ***Don't forget to give the repo a ⭐***
