@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 | `VLESS`            | VLESS protocol configuration           |
 | `VMess`            | VMess protocol configuration           |
 | `ss`      | Shadowsocks protocol configuration     |
-| `tr`           | Trojan protocol configuration          |
+| `TROJAN`           | Trojan protocol configuration          |
 | `ssr`     | ShadowsocksR protocol configuration    |
 | `WARP`             | WARP protocol configuration            |
 
