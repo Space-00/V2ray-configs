@@ -1,4 +1,4 @@
-***👇🏻All of these languages were translated with AI so sorry if the translation is funny or anything👇🏻***
+***👇🏻 All of these languages were translated with AI so sorry if the translation is funny or anything 👇🏻***
 
 🌍 [Persian (Farsi)](https://github.com/Space-00/V2ray-configs/blob/main/README_PER.md)
 
@@ -6,7 +6,7 @@
 
 🌍 [Chinese](https://github.com/Space-00/V2ray-configs/blob/main/Chinese.md)
 
-***👆🏻All of these languages were translated with AI so sorry if the translation is funny or anything👆🏻***
+***👆🏻 All of these languages were translated with AI so sorry if the translation is funny or anything 👆🏻***
 
 
 This repo collects a random amount of v2ray configs by itself every 20 minutes 
