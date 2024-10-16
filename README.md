@@ -1,6 +1,6 @@
 🌍 [Persian (Farsi)](https://github.com/Space-00/V2ray-configs/blob/main/README_PER.md)
 
-This repo collects a random amount of v2ray configs by itself every 10 to 20 minutes 
+This repo collects a random amount of v2ray configs by itself every 20 minutes 
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
 
