@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 **🔵Information**
 --------------------
 
-**📝Total updates**: `16`
+**📝Total updates to make the code better and functional**: `16`
 
 **📚Sources that configs are captured from**: `10`
 
