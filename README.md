@@ -2,8 +2,6 @@
 
 🌍 [Persian (Farsi)](https://github.com/Space-00/V2ray-configs/blob/main/README_PER.md)
 
-🌍 [Arabic](https://github.com/Space-00/V2ray-configs/blob/main/README_ARABIC.md)
-
 🌍 [Chinese](https://github.com/Space-00/V2ray-configs/blob/main/Chinese.md)
 
 ***👆🏻 All of these languages were translated with AI so sorry if the translation is funny or anything 👆🏻***
