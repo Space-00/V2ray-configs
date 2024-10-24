@@ -10,5 +10,5 @@ echo Resetting Winsock catalog...
 netsh winsock reset
 echo Resetting TCP/IP stack...
 netsh int ip reset
-echo Network settings have been reset. It's recommended to restart your computer.
+echo Network settings have been reset. It's recommended to restart your computer. not necessary but may be better to restart
 pause
