@@ -8,6 +8,8 @@ This repo collects a random amount of v2ray configs by itself every 20 minutes
 https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 ```
 
+***Guys, share this page to anyone who needs it cause I want everyone to connect to the internet freely without any restriction***
+
 ***Don't forget to give the repo a ⭐***
 
 ***⭕Important⭕: The amount of configs that you get are random and there won't be any repeated config in the list***
