@@ -1,10 +1,10 @@
-name: Every 20 minutes
+name: Every 30 minutes
 
 permissions: write-all
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
