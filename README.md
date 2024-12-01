@@ -1,4 +1,4 @@
-This repo collects a random amount of v2ray configs by itself every 20 minutes 
+This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
 
