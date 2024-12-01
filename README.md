@@ -39,4 +39,4 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 
 
 
-# Note: you can tell me a source you know too, open an issue [here] and tell me, a source can be a telegram channel, a subscription likn or a webpage that gives away configs
+# Note: you can tell me a source you know too, open an issue [here](https://github.com/Space-00/V2ray-configs/issues) and tell me, a source can be a telegram channel, a subscription likn or a webpage that gives away configs
