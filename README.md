@@ -36,3 +36,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 **📚Sources that configs are captured from**: `10`
 
 **🕖The day I created this repository**: `October 15 of 2024`
+
+
+
+# Note: you can tell me a source you know too, open an issue [here] and tell me, a source can be a telegram channel, a subscription likn or a webpage that gives away configs
