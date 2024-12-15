@@ -4,6 +4,7 @@ vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?type=ws&path=%2
 vless://5a84001d-87f0-4972-98bf-e836e3599b9c@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
+vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v27.bEsTdRlImIt.NeT#👨‍🚀Free👨‍🚀
 vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@A36.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%3Fed%3D80&security=none&encryption=none&host=2.jnpfn16.net&type=ws#👨‍🚀Free👨‍🚀
 vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.194.133:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=1.2.wuffhq10.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-NUFiLTER@mio.splashthat.com:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsss6x.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👨‍🚀Free👨‍🚀
@@ -13,7 +14,6 @@ vless://TELEGRAM-NUFiLTER@mio.splashthat.com:80?path=%2Ftelegram-NUFiLTER%2Ctele
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#👨‍🚀Free👨‍🚀
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.95:3389#👨‍🚀Free👨‍🚀
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#👨‍🚀Free👨‍🚀
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#👨‍🚀Free👨‍🚀
 vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.bEsTdRlImIt.NeT#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsss.iR&fp=firefox&type=ws&sni=mio.splashthat.com#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=kazemi211zerofun.coM&type=ws#👨‍🚀Free👨‍🚀
@@ -67,13 +67,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👨‍🚀Free👨‍🚀
-trojan://NISHIKUITAN111@104.18.84.174:443?allowInsecure=1#👨‍🚀Free👨‍🚀
-trojan://5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.155.47:39357?security=none&type=tcp&host=speedtest.net&headerType=http#👨‍🚀Free👨‍🚀
-trojan://NISHIKUITAN111@198.41.205.240:443?#👨‍🚀Free👨‍🚀
-trojan://blue2024@104.16.36.151:443?sni=ha.lii2010.us.kg#👨‍🚀Free👨‍🚀
-trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=0#👨‍🚀Free👨‍🚀
-trojan://blue2024@104.19.174.207:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-trojan://blue2024@172.67.70.84:443?security=tls&sni=hb.lii2010.us.kg&type=ws#👨‍🚀Free👨‍🚀
+trojan://NISHIKUITAN111@168.100.6.46:443?#👨‍🚀Free👨‍🚀
+trojan://MxJf4oM9fRzrnL9hKpHAUw@104.19.211.18:443?security=tls&sni=fcgerman.nimaempire.cfd&type=ws&host=fcgerman.nimaempire.cfd&path=%2Ftws&fp=firefox#👨‍🚀Free👨‍🚀
+trojan://blue2024@104.20.198.59:443?sni=ta.promote.icu#👨‍🚀Free👨‍🚀
+trojan://NISHIKUITAN111@172.67.242.135:443?#👨‍🚀Free👨‍🚀
+trojan://bpb-trojan@104.17.217.238:443?sni=bpb.my79801.com#👨‍🚀Free👨‍🚀
+trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#👨‍🚀Free👨‍🚀
+trojan://NISHIKUITAN111@104.19.166.187:443?#👨‍🚀Free👨‍🚀
 warp://162.159.192.94:928?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.195.80:5279?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=👨‍🚀Free👨‍🚀&security=reality&sni=gsmarena.com&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#👨‍🚀Free👨‍🚀
 vless://589f881f-f380-42b4-9ae9-a1818c84da48@[2a01:4f8:1c1b:25a3::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#👨‍🚀Free👨‍🚀
