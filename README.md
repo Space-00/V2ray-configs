@@ -1,4 +1,4 @@
-# There has been a huge update today (12/18/24), I added 24 new sources (it is 34 in total now) and I made the code a lot better
+# ️‍🔥 There has been a huge update today (12/18/24), I added 24 new sources (it is 34 in total now) and I made the code a lot better ️‍🔥
 
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
