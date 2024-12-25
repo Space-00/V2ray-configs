@@ -321,4 +321,5 @@ warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=👨‍🚀Free👨‍🚀
 vless://dcdef1eb-d219-451c-b9e6-9db194721c8c@[2a01:4f8:1c1b:1891::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#👨‍🚀Free👨‍🚀
 vless://1fe0dbb3-1e2f-4e66-a0df-d96a76b83e36@[2a01:4f8:1c1b:25a3::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#👨‍🚀Free👨‍🚀
-vless://c6400cfa-b0f8-4124-b6d4-6ece5269efde@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#👨‍🚀Free👨‍🚀
+vless://c6400cfa-b0f8-4124-b6d4-6ece5269efde@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=👨‍🚀
+#
