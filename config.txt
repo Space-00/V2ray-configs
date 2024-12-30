@@ -70,7 +70,6 @@ vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMO
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
-trojan://telegram-id-privatevpns@34.252.205.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@54.74.155.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@13.53.250.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@13.48.109.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
@@ -88,6 +87,7 @@ trojan://telegram-id-privatevpns@3.121.157.191:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.78.163.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@15.236.232.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@51.44.132.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
+trojan://telegram-id-privatevpns@35.179.14.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk%3D@45.158.59.74:58060#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👨‍🚀Free👨‍🚀
@@ -161,12 +161,10 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#👨‍🚀Fre
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:4243::1]:24213?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:18577?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
-vless://TELEGRAM-ServerNett@[2a01:4f8:c013:95f7::1]:50081?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:18577?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&security=none&encryption=none&type=ws#👨‍🚀Free👨‍🚀
+vless://04c34012-b18d-4d35-a736-b5048e6cde33@ser1.servernettt.ir:80?path=%2F&security=none&encryption=none&type=ws#👨‍🚀Free👨‍🚀
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:95f7::1]:16053?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
@@ -324,11 +322,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://a5f4e8d8-4bb8-46aa-80ba-a1fbde2484e9@104.22.77.215:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👨‍🚀Free👨‍🚀
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&type=ws&host=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&path=%2F%3Fed%3D2048#👨‍🚀Free👨‍🚀
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.193:443?security=tls&sni=la.ylks.us.kg&type=ws&host=la.ylks.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#👨‍🚀Free👨‍🚀
-vless://c4b6ad48-db4a-4348-8e4a-e6a64a863c7d@104.21.7.6:443?security=tls&sni=PpaL03.mOHammAD-sEnGER.WoRKeRS.dev&type=ws&host=PPal03.moHAmMAD-sENGeR.wORKERs.dEV&path=%2F60DQVhzRgjIp-tWO%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
-vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.38.145.145:443?security=tls&sni=gcore.com&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm%3Fed%3D2048#👨‍🚀Free👨‍🚀
+vless://846b82d2-6f31-4458-bf59-5d67f9934e58@104.21.19.124:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👨‍🚀Free👨‍🚀
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@185.146.173.59:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=👨‍🚀Free👨‍🚀
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
 warp://188.114.98.244:4500?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.192.60:1014?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
