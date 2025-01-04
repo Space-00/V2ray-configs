@@ -33,6 +33,6 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 
 **📝Total updates to make the code better and functional**: `19`
 
-**📚Sources that configs are captured from**: `34`
+**📚Sources that configs are captured from**: `33`
 
 **🕖The day I created this repository**: `October 15 of 2024`
