@@ -65,8 +65,6 @@ vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMO
 vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
-trojan://telegram-id-privatevpns@35.181.213.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
-trojan://telegram-id-privatevpns@3.10.62.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@18.171.111.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@54.216.50.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@54.78.147.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
@@ -84,6 +82,7 @@ trojan://telegram-id-privatevpns@13.49.211.220:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.21.5.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@3.126.77.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@3.125.58.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
+trojan://telegram-id-privatevpns@15.188.166.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👨‍🚀Free👨‍🚀
@@ -294,11 +293,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://994c91dd-b282-4c25-a0c5-af76b480c080@2.189.59.3:443?security=tls&sni=mci-google-bing3164.sdb5j.workers.dev.&type=ws&host=mci-google-bing3164.sdb5j.workers.dev.&path=%2F#👨‍🚀Free👨‍🚀
-vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#👨‍🚀Free👨‍🚀
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?security=none&sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2%2F%3Fed%3D2048#👨‍🚀Free👨‍🚀
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.168:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👨‍🚀Free👨‍🚀
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.202.206:443?security=tls&sni=PpAL03.RiyAN-yORIcK.wOrkERS.deV&type=ws&host=PpAL03.RiYaN-yoriCK.WorKeRS.DeV&path=%2FErP0ZuSw7tHZZlsC%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
+vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.5:80?security=none&type=splithttp&path=%2Fadmin#👨‍🚀Free👨‍🚀
+vless://40d11375-f419-4617-91b8-e97edf972632@104.27.206.92:443?security=tls&sni=ba.ylka.us.kg&type=ws&host=ba.ylka.us.kg&path=%2F%3Fed%3D2560&fp=random#👨‍🚀Free👨‍🚀
+vless://acff92c5-701c-41e9-b905-c1e18fdd6b77@104.21.12.158:443?security=tls&sni=628b90e7-BLaCk-TrUtH-5368bb.mOSimOsTAfA5544.worKERS.DEV&type=ws&host=628b90e7-black-truth-5368bb.mosimostafa5544.workers.dev&path=%2F--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%2C%7C--%20%40MOSIV2--%20%7C%3Fed%3D443%20&fp=randomized#👨‍🚀Free👨‍🚀
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.22.36.243:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome#👨‍🚀Free👨‍🚀
+vless://8d65d671-e313-44ad-88b2-0a17f648fa51@108.162.196.159:443?security=tls&sni=webp.yandeximage.ru&type=xhttp&host=webp.yandeximage.ru&path=%2F%40ConnectStixUrewsdlfB24AHj6tm1rE&fp=chrome&alpn=h3#👨‍🚀Free👨‍🚀
 warp://162.159.192.174:5956?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://188.114.98.45:880?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
