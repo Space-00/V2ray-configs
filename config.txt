@@ -1,5 +1,3 @@
-vless://91d64778-3341-45b4-9d59-8482e51f633e@www.speedtest.net:443?path=%2Famir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prior-graduates-sent-ye.trycloudflare.com&fp=chrome&type=ws&sni=prior-graduates-sent-ye.trycloudflare.com#👨‍🚀Free👨‍🚀
-vless://4b3cf362-0383-4b6e-b757-59c8b49ec723@www.speedtest.net:443?path=%2Famir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prior-graduates-sent-ye.trycloudflare.com&fp=chrome&type=ws&sni=prior-graduates-sent-ye.trycloudflare.com#👨‍🚀Free👨‍🚀
 warp://[2606:4700:d1::7652:2439:1d7a:4450]:3138/?ifp=5-10
 warp://[2606:4700:d0::64f9:787e:1dee:c763]:3138/?ifp=5-10
 warp://[2606:4700:d0::60ce:daf7:bcc:b5a5]:7559/?ifp=5-10
@@ -8,6 +6,8 @@ warp://[2606:4700:d0::19e9:9f6c:4170:f3e2]:3138/?ifp=5-10
 warp://188.114.96.17:1387/?ifp=5-10
 warp://188.114.97.54:1010/?ifp=5-10
 warp://188.114.97.115:1387/?ifp=5-10
+warp://188.114.96.48:1387/?ifp=5-10
+warp://188.114.97.65:1387/?ifp=5-10
 warp://188.114.99.60:3581/?ifp=5-10
 vless://6b90d287-1f9c-44b3-8f35-d1fec2506bb6@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAic2FmZS5zYW5qZXNoLm9ubGluZSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDAzZDhmZTQtOWE4Zi00YjE4LThjNWItMzU1YzFjMmY0MGI5IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MjQ5IiwgInBzIjogIlx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MEZyZWVcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -60,7 +60,7 @@ vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZED
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 vless://join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
-trojan://telegram-id-privatevpns@51.21.99.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@3.72.188.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@3.72.208.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@13.36.88.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
@@ -77,6 +77,7 @@ trojan://telegram-id-privatevpns@35.180.182.118:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.36.48.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@35.179.30.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@13.42.197.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
+trojan://telegram-id-privatevpns@52.49.63.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👨‍🚀Free👨‍🚀
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👨‍🚀Free👨‍🚀
@@ -294,12 +295,12 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://86e90833-7f6c-48b5-b273-9b4a55568e4e@151.101.65.111:80?security=none&type=ws&host=isna.ir&path=%2Fnews#👨‍🚀Free👨‍🚀
-vless://41bc353e-bda3-5e7f-a755-fbb5d98b1dce@185.146.173.94:80?security=none&type=ws&host=De2.vless.site.&path=/vless#👨‍🚀Free👨‍🚀
-vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@34.216.225.25:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.75:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=V2nGfaSt-JCr.PAgEs.DeV#👨‍🚀Free👨‍🚀
-vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@172.64.35.215:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
-warp://162.159.195.235:946?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://188.114.99.46:878?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
+vless://815724d3-0d61-4761-be07-471441d42be5@172.67.24.121:80?security=none&type=ws&host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#👨‍🚀Free👨‍🚀
+vless://5a88f7f4-3378-40dc-890b-6e3ef13b9577@104.21.31.174:443?security=tls&sni=63217039726966612258331648507682.v2line.net&type=ws&host=63217039726966612258331648507682.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#👨‍🚀Free👨‍🚀
+vless://97057b32-a3bf-4378-8ccc-3e85aa0231d0@104.22.37.243:8443?security=tls&sni=xg1.haibucuo.xyz&type=ws&host=xg1.haibucuo.xyz&path=%2F%3Fed%3D2048#👨‍🚀Free👨‍🚀
+vless://be9ed9cc-3458-4d44-bedb-08bf7cceefb9@104.17.122.8:8080?security=none&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
+vless://ff7e89d1-cdde-4aa8-b56a-2166206fe275@173.245.59.132:8080?security=none&type=ws&host=akp.di.w827.www.speedtest.net.rubika.ir.xn--d28haaaaa.xn--d28ha.xn--d28ha.sam726.jhs.jzjjzoiq87.82716.xn--n-9n2sab.xn--nsn-9103bdaa.xn--bskhsh-9n34edaad.xn--bzj-9103bda.xnbladecorner.bladecorner-shahraktohid.ir&path=%2Fws#👨‍🚀Free👨‍🚀
+warp://162.159.192.20:4500?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.195.32:880?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=👨‍🚀Free👨‍🚀
