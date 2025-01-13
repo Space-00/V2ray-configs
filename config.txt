@@ -289,11 +289,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://6657eaa4-6e21-4fd1-9a7f-157b23236aa4@104.21.72.233:2052?security=none&sni=jjjp.kuailejc.xyz&type=ws&host=jjjp.kuailejc.xyz&path=%2Fkuaile2024#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.214:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👨‍🚀Free👨‍🚀
-vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@18.134.37.97:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@130.250.137.107:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#👨‍🚀Free👨‍🚀
+vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?security=none&type=ws&host=Fr2.vless.site.&path=/vless#👨‍🚀Free👨‍🚀
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?security=tls&sni=backtory.com&type=ws&host=backtory.com&alpn=h2,http%2F1.1&allowInsecure=1#👨‍🚀Free👨‍🚀
+vless://531bf100-1477-487c-a979-6adebf8f105f@206.238.237.203:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#👨‍🚀Free👨‍🚀
+vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&alpn=h2,http/1.1#👨‍🚀Free👨‍🚀
+vless://1af38e1a-33fa-4759-ba5d-4ab1de16b50c@172.236.22.27:2023?type=tcp#👨‍🚀Free👨‍🚀
 warp://162.159.195.235:946?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://188.114.99.46:878?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
