@@ -80,8 +80,8 @@ trojan://telegram-id-privatevpns@52.48.245.72:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@34.249.27.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@51.20.235.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
 trojan://telegram-id-privatevpns@13.60.106.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👨‍🚀Free👨‍🚀
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👨‍🚀Free👨‍🚀
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👨‍🚀Free👨‍🚀
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiY2lubmFtb24ucGFyc2lmYXN0NzguaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJjaW5uYW1vbi5wYXJzaWZhc3Q3OC5pciIsICJpZCI6ICJmNmU3YmU3NS1jYjkwLTQ1ODMtYTQxNS04NDIyZTRhMzhhZWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZpamE0Wm53c0JpWnA3dnFMNnVjd05ZRHpiZWtGNSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJjaW5uYW1vbi5wYXJzaWZhc3Q3OC5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&path=%2F4ca8471c&security=reality&encryption=none&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=1b7d7614d14c#👨‍🚀Free👨‍🚀
@@ -99,6 +99,7 @@ vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.108.55.177:443?path=%2F&security
 vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.109.238.202:443?path=%2F&security=none&encryption=none&host=65.109.238.202&type=ws#👨‍🚀Free👨‍🚀
 ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.37:989#👨‍🚀Free👨‍🚀
 vless://73039c19-caee-48e5-af88-e6c74197c1a1@playemlive.com:80?path=%2F&security=none&encryption=none&host=sjjfjsjs.ai&type=ws#👨‍🚀Free👨‍🚀
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#👨‍🚀Free👨‍🚀
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@159.69.206.4:443?path=%2F&security=none&encryption=none&host=159.69.206.4&type=ws#👨‍🚀Free👨‍🚀
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&security=none&encryption=none&host=168.119.101.219&type=ws#👨‍🚀Free👨‍🚀
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@188.245.247.73:443?path=%2F&security=none&encryption=none&host=188.245.247.73&type=ws#👨‍🚀Free👨‍🚀
@@ -294,11 +295,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://38f80e1f-514c-4129-8ba4-be1e2de01c18@45.131.6.6:443?security=tls&sni=one-16h.pages.dev&type=ws&host=one-16h.pages.dev&path=%2F%3Fed%3D2048#👨‍🚀Free👨‍🚀
-vless://33e40275-fcaf-4d97-a4e6-095fb97c0968@104.24.196.20:80?security=none&type=ws&host=3www.speedtest.net.ftp.debian.org.www.digikala.com.studybooks.ir&path=%2FnekoOo%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.130:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.220:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👨‍🚀Free👨‍🚀
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.90:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👨‍🚀Free👨‍🚀
+vless://219d848d-60f2-4321-8275-72b9b575b37e@188.114.99.215:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.115:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👨‍🚀Free👨‍🚀
+vless://53dc8717-4623-4479-860e-3704d7e4f8f2@188.114.98.186:443?security=tls&sni=VipCloudGod.nikoo-kala.Ir.&type=ws&host=VipCloudGod.nikoo-kala.Ir.&path=%2F%3Fed%3D1024#👨‍🚀Free👨‍🚀
+vless://1d58477a-4878-4b30-95a8-10654e520966@104.18.43.226:443?security=tls&sni=yntej63l74elan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Ftr-full.privateip.net&fp=random&alpn=http%2F1.1#👨‍🚀Free👨‍🚀
 warp://162.159.195.235:946?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://188.114.99.46:878?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
