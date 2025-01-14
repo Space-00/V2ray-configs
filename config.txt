@@ -297,11 +297,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.33:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2Fblue#👨‍🚀Free👨‍🚀
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.38.46:443?security=tls&sni=PPal03.KEshAWn-hAlVoRson.WOrkErS.deV&type=ws&host=PpAL03.KeShaWN-hAlvorsOn.wORKErs.deV&path=%2F4Yo2TVRirqLLE50n%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@102.177.176.3:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.163:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#👨‍🚀Free👨‍🚀
-vless://6cf6b03f-93bd-4906-b988-7247e3c9ad8b@172.64.33.81:443?security=tls&sni=tnp91a.allgums.com&type=ws&host=tnp91a.allgums.com&path=/wss&alpn=http/1.1#👨‍🚀Free👨‍🚀
+vless://531a0a29-8221-414f-8861-9b336ec9481e@104.21.90.210:80?type=ws&host=cdn-hk.bestup.eu.org&path=%2FTel%3A%40VPN_VIP_NOR%3Fed%3D2048#👨‍🚀Free👨‍🚀
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@162.159.255.111:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#👨‍🚀Free👨‍🚀
+vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@3.68.31.54:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#👨‍🚀Free👨‍🚀
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#👨‍🚀Free👨‍🚀
+vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.0.11:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws%2F%3Fed%3D2048#👨‍🚀Free👨‍🚀
 warp://162.159.192.181:854?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.192.243:4500?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
