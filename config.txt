@@ -1,12 +1,8 @@
-vmess://eyJhZGQiOiAibGluMDUwMi5od2Nhci5zYnMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluamEwNS5od2Nhci5zYnMiLCAiaWQiOiAiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluamEwNS5od2Nhci5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-vless://51f449e3-c5ad-42e0-bd2e-16f4edcc856e@178.255.222.25:44884?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
-vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#👨‍🚀Free👨‍🚀
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.145.23:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#👨‍🚀Free👨‍🚀
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.160:8880?mode=gun&security=none&encryption=none&type=grpc#👨‍🚀Free👨‍🚀
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
-vless://d0d300dd-c930-46b2-da16-eb2726b439f1@www.speedtest.net:2082?path=yakuzaytarmin%3Fed%3D2082&security=none&encryption=none&host=yakuasubcha.poqpoq.shop.&type=httpupgrade#👨‍🚀Free👨‍🚀
 vless://e87e0a78-f75e-4f15-d949-07e0fabbfe1b@194.5.193.73:26469?path=%2Froshdcollection&security=none&encryption=none&host=check-host.net&type=ws#👨‍🚀Free👨‍🚀
 vless://739452d9-3da6-44d2-8bb2-649b575a00fd@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#👨‍🚀Free👨‍🚀
+vless://0748c3a1-1b82-47ef-a846-a6faaacdfbe7@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=V2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👨‍🚀Free👨‍🚀
+vless://5b67072c-e76c-45d7-b38b-e39e332ecad0@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=V2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#👨‍🚀Free👨‍🚀
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#👨‍🚀Free👨‍🚀
