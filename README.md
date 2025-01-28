@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 | `ss`      | Shadowsocks protocol configuration     |
 | `TROJAN`           | Trojan protocol configuration          |
 | `ssr`     | ShadowsocksR protocol configuration    |
-| `WARP`             | WARP protocol configuration            |
+| `WARP`             | Warp protocol configuration            |
 
 
 
