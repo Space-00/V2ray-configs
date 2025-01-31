@@ -92,7 +92,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👨‍🚀Free👨‍🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👨‍🚀Free👨‍🚀
-vmess://eyJhZGQiOiAiNS4zOS4yNTQuMTk2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjM5ODUiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTk0Ljg3LjY5LjUyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5NjBjOTVhOS04NTAyLTRjYmMtYTUyNy1kNDBjMmQ2OGQyYjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTc5MjYiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiNDUuOC4xNTkuMjQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzE0OTUiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTk1LjU4LjQ5Ljg2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5NjBjOTVhOS04NTAyLTRjYmMtYTUyNy1kNDBjMmQ2OGQyYjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTc5MjYiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
@@ -109,6 +108,7 @@ vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.90.77:443?security=reality&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👨‍🚀Free👨‍🚀
 trojan://tg-fq521free@45.67.215.95:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#👨‍🚀Free👨‍🚀
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#👨‍🚀Free👨‍🚀
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?path=%2FVLESS&security=tls&encryption=none&host=Nl2-FulL.PrIvAteiP.NeT&type=ws&sni=Nl2-FulL.PrIvAteiP.NeT#👨‍🚀Free👨‍🚀
 vless://03ed1462-ef41-453d-a06d-03999f4ab2d4@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frANtIC-GrOUP.oNeEat.Co.&type=ws#👨‍🚀Free👨‍🚀
 vless://50ae2461-1c25-4bd8-98c6-cee307efd4f0@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=mswoju.bestvpninuae.com&type=ws&alpn=http/1.1&host=mswoju.bestvpninuae.com&path=/wss#👨‍🚀Free👨‍🚀
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80?encryption=none&security=none&sni=&type=ws&alpn=&host=3bvsd0F7g5.SNfkK5PH6I.h5FusmuJ54.x0HdHZPljS.2YxuEWGMjk.salamtrip.ir&path=/vmn?ed=1024#👨‍🚀Free👨‍🚀
@@ -302,11 +302,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-trojan://blue2024@104.17.40.244:443?security=tls&sni=td.promote.icu&type=tcp#👨‍🚀Free👨‍🚀
-trojan://96cad374-7573-4463-8804-4665c2c3d932@42.98.209.41:6001?sni=ho82IA13QmjF5Atv.apple.com&allowInsecure=0#👨‍🚀Free👨‍🚀
-trojan://telegram-id-directvpn@3.23.229.156:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👨‍🚀Free👨‍🚀
-trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#👨‍🚀Free👨‍🚀
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443?security=tls&sni=bs1.loadingip.com&type=tcp#👨‍🚀Free👨‍🚀
+trojan://blue2024@104.129.167.128:443?security=tls&sni=ta.promote.icu&type=tcp#👨‍🚀Free👨‍🚀
+vmess://eyJhZGQiOiAiMzEuMTg2Ljg3LjIwNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWI5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwgInBvcnQiOiAiMzczNCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+trojan://3763495982449565696@109.61.16.83:443?security=tls&sni=sensible-crow.goat627.mom&type=tcp#👨‍🚀Free👨‍🚀
+trojan://3763495894587285504@13.43.156.128:443?security=tls&sni=useful-honeybee.treefrog761.one&type=tcp&allowInsecure=1#👨‍🚀Free👨‍🚀
+trojan://3763495894587285504@35.155.4.93:443?security=tls&sni=usable-toad.treefrog761.one&type=tcp#👨‍🚀Free👨‍🚀
 warp://162.159.195.60:988?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.192.187:2506?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
