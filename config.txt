@@ -299,11 +299,11 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#👨‍🚀Free👨‍🚀
 vmess://eyJhZGQiOiAiam9pbi5tZWxvZHlmcmVlbmV0Mi5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUwZWYwYjIzLWYxNGItNDU5Zi05N2FhLWQwZjM0NjE4OWQyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbWFpbC8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwRnJlZVx1ZDgzZFx1ZGM2OFx1MjAwZFx1ZDgzZFx1ZGU4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiSm9pbi5NZWxvZHlGZWVuRXQyLnNob1AuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAic2hhaGlubmV0LWZyZWVuZXRjZG4ubWVsb2R5c2hvcG9uZTIuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic29nLnNoYWhpbm5ldC5zaG9wIiwgImlkIjogIjk2NTg4OTEyLTNiY2ItNDkxYy04Y2UzLTdhOTY1YmJlYzA3ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdTIwMGRcdWQ4M2RcdWRlODBGcmVlXHVkODNkXHVkYzY4XHUyMDBkXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#👨‍🚀Free👨‍🚀
-trojan://Aimer@103.116.7.103:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#👨‍🚀Free👨‍🚀
-trojan://telegram-id-directvpn@13.36.35.164:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👨‍🚀Free👨‍🚀
-trojan://SSorg@108.165.152.1:2087?sni=ssjj.esslh.filegear-sg.me#👨‍🚀Free👨‍🚀
-trojan://Aimer@213.109.205.55:2096?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#👨‍🚀Free👨‍🚀
+trojan://Aimer@108.162.195.168:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#👨‍🚀Free👨‍🚀
+trojan://Aimer@38.59.242.169:27738?security=tls&sni=ngep.ambercc.filegear-sg.me&type=ws&host=ngep.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#👨‍🚀Free👨‍🚀
+trojan://Aimer@188.164.159.25:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#👨‍🚀Free👨‍🚀
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#👨‍🚀Free👨‍🚀
+trojan://Aimer@46.254.93.52:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#👨‍🚀Free👨‍🚀
 warp://162.159.195.144:4500?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://162.159.195.138:1070?ifp=10-20&ifps=20-60&ifpd=5-10#👨‍🚀Free👨‍🚀
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@188.114.97.170:894#👨‍🚀Free👨‍🚀
 warp://p1@auto?ifpm=m4#👨‍🚀Free👨‍🚀&&detour=warp://p2@auto#👨‍🚀Free👨‍🚀
