@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Space-00/V2ray-configs/refs/heads/main/Reset/80fe20b0.png" alt="Neon v2ray" width="250" />
+  <img src="https://raw.githubusercontent.com/Space-00/V2ray-configs/refs/heads/main/Reset/1000019951-modified.png" alt="Neon v2ray" width="250" />
 </p>
 
 
