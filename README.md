@@ -8,6 +8,11 @@ This repo collects a random amount of v2ray configs by itself every 30 minutes
 https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Space-00/V2ray-configs/refs/heads/main/Reset/80fe20b0.png" alt="Neon v2ray" width="500" />
+</p>
+
+
 My telegram channel: [Neon v2ray](https://t.me/Neon_v2ray)
 
 Join my telegram channel to show me your support 💙
