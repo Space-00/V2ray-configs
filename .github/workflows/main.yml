@@ -42,6 +42,11 @@ jobs:
       env:
         Tokey: ${{ secrets.TOKEN }}
 
+    - name: Run T.py
+      run: python T.py
+      env:
+        Tokey: ${{ secrets.TOKEN }}
+
     - name: Commit and push if changes
       run: |
         git config --global user.name 'GitHub Actions'
