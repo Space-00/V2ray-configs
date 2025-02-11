@@ -37,11 +37,12 @@ jobs:
     - name: Run app.py
       run: python app.py
 
-    - name: Run T.py
-      run: python T.py
+    - name: Run Recommender.py
+      run: python recommender.py
       env:
         Tokey: ${{ secrets.TOKEN }}
-
+        Key: ${{ secrets.MDB }}
+        
     - name: Run T.py
       run: python T.py
       env:
