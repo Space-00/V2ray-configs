@@ -40,7 +40,7 @@ Join my telegram channel to get a movie recommendation and configs at the same t
 **🔵Information**
 --------------------
 
-**📝Total updates to make the code better and functional**: `19`
+**📝Total updates to make the code better and functional**: `22`
 
 **📚Sources that configs are captured from**: `30`
 
