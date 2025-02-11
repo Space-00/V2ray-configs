@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Space-00/V2ray-configs/main/config.txt
 
 My telegram channel: [Neon v2ray](https://t.me/Neon_v2ray)
 
-Join my telegram channel to show me your support 💙
+Join my telegram channel to get movie recommendation and configs at the same time and to show me your support as well 💙
 
 ***Guys, share this page to anyone who needs it cause I want everyone to connect to the internet freely without any restriction***
 
