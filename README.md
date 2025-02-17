@@ -42,6 +42,6 @@ Join my telegram channel to get a movie recommendation and configs at the same t
 
 **📝Total updates to make the code better and functional**: `22`
 
-**📚Sources that configs are captured from**: `30`
+**📚Sources that configs are captured from**: `29`
 
 **🕖The day I created this repository**: `October 15 of 2024`
